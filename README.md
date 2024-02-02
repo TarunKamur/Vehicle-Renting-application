@@ -1,7 +1,7 @@
 ![PickHub](https://github.com/GurdeepSingh-767/Vehicle-Renting-System/blob/main/public/css/img/img1.png)
 ![PickHub](https://github.com/GurdeepSingh-767/Vehicle-Renting-System/blob/main/public/css/img/img7.png)
 
-# Vehicle Renting System
+# Vehicle Renting systems
 
 Developed pickhub , a vehicle renting system utilizing modern software engineering principles. 
 Pickhub was developed by Object-oriented programming, software architecture, UML designs, unit
